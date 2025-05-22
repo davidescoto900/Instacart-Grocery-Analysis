@@ -38,6 +38,4 @@ Code was written in Python and executed in Jupyter notebooks.
     Seaborn: For statistical data visualization and creating informative, attractive graphics
     Scipy: For scientific and technical computing, including advanced mathematical functions
 
-
-## Disclaimer 
-This project was madde for the purposes of the Career Foundry Datan Analytics immersion course 
+ 
